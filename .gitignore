@@ -1,0 +1,10 @@
+*.idea
+/data/*
+*__pycache__
+/A4_311831010/data/*
+/A4_311831010/2022-NYCU-AI-DL/*
+/A4_311831010/cycle_GAN_1/*
+/A4_311831010/cycle_GAN_2/*
+/A4_311831010/dcGAN/*
+/A4_311831010/diffusion/*
+/A5_311831010/dataset/*
